@@ -1,10 +1,11 @@
-### Nice to meet you! I'm Gabriel Cardoso 👨🏻‍💻  
+### Prazer em conhecê-lo! Eu sou o Gabriel Cardoso 👨🏻‍💻  
 
-I'm a programming student who studies daily in pursuit of becoming a **skilled back-end developer**.  
-Currently focused on mastering **Java** and building robust applications with **Spring**.  
-I also have some knowledge of **databases**, and I'm always exploring ways to deepen my understanding.  
+Sou um estudante de programação que estuda diariamente em busca de se tornar um **desenvolvedor back-end qualificado**.  
+Atualmente, estou focado em dominar o **Java** e construir aplicações robustas com **Spring**.  
+Também possuo conhecimentos em **bancos de dados** e estou sempre explorando formas de aprofundar meu entendimento.  
 
-🎓 I hold a **technical degree in IT**, which provided me with a solid foundation to grow in the development world.  
+🎓 Tenho formação **técnica em Informática**, o que me proporcionou uma base sólida para crescer no mundo do desenvolvimento.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-developer/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_oc6/)  
@@ -12,7 +13,7 @@ I also have some knowledge of **databases**, and I'm always exploring ways to de
 
 ![Gabriel Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cardosogoc&show_icons=true&theme=onedark)  
 
-## Technologies I use in my daily life:  
+## 🛠️ Tecnologias que utilizo no meu dia a dia  
 
 <div style="display: inline-block"><br/>
 
@@ -20,20 +21,23 @@ I also have some knowledge of **databases**, and I'm always exploring ways to de
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img align="center" alt="JPA" src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-
+  <br/>
+  <br/>
   <!-- Database -->
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+  <br/>
+  <br/>
   <!-- Tools -->
   <img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img align="center" alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-
+  <br/>
+  <br/>
 </div>
 <br/>
 
  
 <br/>
 
-# Repetition with correction until exhaustion leads to perfection. ⚡🦆  
+# Repetição com correção até a exaustão leva à perfeição. ⚡🦆 
