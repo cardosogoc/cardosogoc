@@ -10,8 +10,6 @@ Também possuo conhecimentos em **bancos de dados** e estou sempre explorando fo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-developer/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_oc6/)  
 
-![Gabriel Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cardosogoc&show_icons=true&theme=onedark)  
-
 ## 🛠️ Tecnologias que utilizo no meu dia a dia  
 
 <div style="display: inline-block"><br/>
