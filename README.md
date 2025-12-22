@@ -3,7 +3,7 @@
 Sou um estudante de programação que estuda diariamente em busca de se tornar um **desenvolvedor back-end qualificado**.  
 Atualmente, estou focado em dominar o **Java** e construir aplicações robustas com **Spring**.  
 Também possuo conhecimentos em **bancos de dados** e estou sempre explorando formas de aprofundar meu entendimento.
-
+<br/>
 🎓 Tenho formação **técnica em Informática**, e Curso um **Técnologo em Analise e Desenolvimento de Sistemas***, o que me proporciona uma base sólida para crescer no mundo do desenvolvimento.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-developer/)  
