@@ -5,7 +5,7 @@ Atualmente, estou focado em dominar o **Java** e construir aplicações robustas
 
 Também possuo conhecimentos em **bancos de dados** e estou sempre explorando formas de aprofundar meu entendimento.
 
-🎓 Tenho formação **técnica em Informática** e curso um **Tecnólogo em Análise e Desenvolvimento de Sistemas**,  
+🎓 Tenho formação **técnica em Informática** e curso o **Tecnólogo em Análise e Desenvolvimento de Sistemas**,  
 o que me proporciona uma base sólida para crescer no mundo do desenvolvimento.
 
 
